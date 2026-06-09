@@ -21,6 +21,6 @@ Made the mount for the K1 Printer, ready for testing. Mount will be used to moun
 
 
 BOM:
-1x Mount (PRINTED using ABS, High-temp)
+1x Mount (PRINTED using PA6GF, High-temp)
 2x M3x12mm Socket head Cap Screws
 1x Cartographer V4 probe
